@@ -1,0 +1,1 @@
+All packages I did  and deliver for the AI class. I learned pathfinding, A* and how to simulate some crowd behaviours.

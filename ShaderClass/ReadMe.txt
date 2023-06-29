@@ -1,0 +1,1 @@
+Class about CG, i learned a lot of math and did some shaders using ShaderLab and HLSL. 
